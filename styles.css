@@ -1,0 +1,43 @@
+/* Apply styles to the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Styling the header */
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+/* Styling different text elements */
+.intro {
+    font-size: 20px;
+    color: #007BFF;
+    font-weight: bold;
+}
+
+.highlight {
+    font-style: italic;
+    font-size: 18px;
+    color: #FF5733;
+}
+
+/* Styling the button */
+.styled-button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.styled-button:hover {
+    background-color: #218838;
+}
